@@ -94,7 +94,7 @@ td {
 .marksNum{
     border: 1px solid #DFE2E9;
     color: dimgrey;
-    padding: 5px;
+    padding: 5px 15px 5px 15px;
     border-radius: 30px;
 }
 .action{
